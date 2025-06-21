@@ -39,27 +39,17 @@ A full-stack Dropbox-style cloud storage application that allows users to upload
 
 ## 📁 Project Structure
 
-dropbox-clone/
-├── backend/ # Spring Boot backend
-│ └── src/main/java/com/example/dropboxclone
-│ └── application.properties
-├── frontend/ # React frontend (port 5173)
-│ └── index.html, App.jsx, styles, etc.
+## 🖥️ Backend Setup
 
-Start the backend:
-
-bash
-Copy
-Edit
+```bash
 cd backend
 ./mvnw spring-boot:run
 
-2️⃣ Frontend Setup (React)
-bash
-Copy
-Edit
+
+## 🖥️ frontend Setup
 cd frontend
 npm install
 npm run dev
-App will run at: http://localhost:5173
+
+
 
