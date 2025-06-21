@@ -6,14 +6,16 @@ dropbox
 A full-stack Dropbox-style cloud storage application that allows users to upload, view, and download files through a modern, dark-themed web interface.
 
 ---
+<img width="500" alt="Screenshot 2025-06-21 at 8 25 31 PM" src="https://github.com/user-attachments/assets/53be548d-a49e-48dd-974f-6d7e2375349f" />
+<img width="500" alt="Screenshot 2025-06-21 at 8 25 10 PM" src="https://github.com/user-attachments/assets/b9ea0f1a-a23d-4c19-bcb1-cd3bab7b02c1" />
+<img width="500" alt="Screenshot 2025-06-21 at 7 34 27 PM" src="https://github.com/user-attachments/assets/7586e58f-4b26-492c-85df-1f962259f64f" />
+<img width="500" alt="Screenshot 2025-06-21 at 7 34 52 PM" src="https://github.com/user-attachments/assets/401d1ead-caae-4d3a-8fce-741b42879731" />
 
 ## ✨ Features
-<img width="1440" alt="Screenshot 2025-06-21 at 7 52 27 PM" src="https://github.com/user-attachments/assets/bfec7ec1-59a1-4b3f-8c94-5e322d89cbfd" />
+
 
 - ✅ Upload multiple files
-- 📁 View list of uploaded files<img width="1417" alt="Screenshot 2025-06-01 at 5 31 33 PM" src="https://github.com/user-attachments/assets/8c5dbe8b-258b-4313-9f7c-455f25f589f0" />
-<img width="1411" alt="Screenshot 2025-06-21 at 7 34 52 PM" src="https://github.com/user-attachments/assets/9e688c21-5f59-4cd3-baa4-f1b4574d2f0a" />
-
+- 📁 View list of uploaded files
 - ⬇️ Download files anytime
 - 🖥️ React-based classy UI (CloudNext-inspired)
 - 🔙 REST API with Spring Boot
