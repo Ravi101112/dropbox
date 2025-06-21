@@ -46,7 +46,6 @@ dropbox-clone/
 ├── frontend/ # React frontend (port 5173)
 │ └── index.html, App.jsx, styles, etc.
 
-
 Start the backend:
 
 bash
@@ -63,3 +62,4 @@ cd frontend
 npm install
 npm run dev
 App will run at: http://localhost:5173
+
