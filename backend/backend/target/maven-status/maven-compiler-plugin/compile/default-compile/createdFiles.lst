@@ -1,0 +1,5 @@
+com/example/dropboxclone/repository/FileMetadataRepository.class
+com/example/dropboxclone/service/FileService.class
+com/example/dropboxclone/model/FileMetadata.class
+com/example/dropboxclone/controller/FileController.class
+com/example/dropboxclone/DropboxCloneApplication.class
